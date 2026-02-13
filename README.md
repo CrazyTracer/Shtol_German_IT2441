@@ -73,7 +73,6 @@ Fully Connected Layer (Linear) → Softmax → [Class Probabilities]
 | RMSE (K) | ~20.15 кг/га |
 
 <img width="600" height="400" alt="confusion_matrix" src="https://github.com/user-attachments/assets/d820f0e2-6860-4279-a47b-af4ee4899cef" />
-*(Здесь будет размещена матрица ошибок, генерируемая скриптом)*
 
 ---
 
